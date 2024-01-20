@@ -1,0 +1,20 @@
+{
+  "files": {
+    "src/settings/config.js": [
+      {
+        "id": "1bfb4b93-7b2d-4c00-a452-047da908e709",
+        "line": 1,
+        "version": 33,
+        "index": 0
+      }
+    ],
+    "src/settings/models/247.js": [
+      {
+        "id": "9aff9e7e-82d2-41ff-805a-26b709238656",
+        "line": 11,
+        "version": 1,
+        "index": 324
+      }
+    ]
+  }
+}
